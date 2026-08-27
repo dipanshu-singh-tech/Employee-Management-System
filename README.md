@@ -83,9 +83,6 @@ Employee-Management-System/
 ├── pom.xml
 └── README.md
 ```
-
-> ℹ️ Update this structure to match your actual package names if they differ.
-
 ---
 
 ## 🚀 Getting Started
@@ -159,7 +156,6 @@ http://localhost:8080
 | `PUT`    | `/api/employees/{id}`    | Update an existing employee      |
 | `DELETE` | `/api/employees/{id}`    | Delete an employee               |
 
-> 📝 Update the endpoint paths above if your controller mappings differ.
 
 ### Sample Request Body (POST/PUT)
 
